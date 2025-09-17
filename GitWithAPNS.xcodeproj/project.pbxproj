@@ -14,6 +14,8 @@
 		D169E7B92E7A890F0035BF2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D169E7B82E7A890F0035BF2D /* Assets.xcassets */; };
 		D169E7BC2E7A890F0035BF2D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = D169E7BB2E7A890F0035BF2D /* Base */; };
 		D169E7C42E7A915C0035BF2D /* .gitignore.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D169E7C32E7A915C0035BF2D /* .gitignore.rtf */; };
+		D1C0D66F2E7A993600D50514 /* LoanController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1C0D66E2E7A993600D50514 /* LoanController.swift */; };
+		D1C0D6712E7AA8B600D50514 /* LoanHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1C0D6702E7AA8B600D50514 /* LoanHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		D169E7BB2E7A890F0035BF2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D169E7BD2E7A890F0035BF2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D169E7C32E7A915C0035BF2D /* .gitignore.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = .gitignore.rtf; sourceTree = "<group>"; };
+		D1C0D66E2E7A993600D50514 /* LoanController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanController.swift; sourceTree = "<group>"; };
+		D1C0D6702E7AA8B600D50514 /* LoanHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				D169E7AF2E7A890E0035BF2D /* AppDelegate.swift */,
 				D169E7B12E7A890E0035BF2D /* SceneDelegate.swift */,
 				D169E7B32E7A890E0035BF2D /* ViewController.swift */,
+				D1C0D66E2E7A993600D50514 /* LoanController.swift */,
+				D1C0D6702E7AA8B600D50514 /* LoanHelper.swift */,
 				D169E7C32E7A915C0035BF2D /* .gitignore.rtf */,
 				D169E7B52E7A890E0035BF2D /* Main.storyboard */,
 				D169E7B82E7A890F0035BF2D /* Assets.xcassets */,
@@ -143,6 +149,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D169E7B42E7A890E0035BF2D /* ViewController.swift in Sources */,
+				D1C0D6712E7AA8B600D50514 /* LoanHelper.swift in Sources */,
+				D1C0D66F2E7A993600D50514 /* LoanController.swift in Sources */,
 				D169E7B02E7A890E0035BF2D /* AppDelegate.swift in Sources */,
 				D169E7B22E7A890E0035BF2D /* SceneDelegate.swift in Sources */,
 			);
