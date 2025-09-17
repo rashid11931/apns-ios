@@ -13,6 +13,7 @@
 		D169E7B72E7A890E0035BF2D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = D169E7B62E7A890E0035BF2D /* Base */; };
 		D169E7B92E7A890F0035BF2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D169E7B82E7A890F0035BF2D /* Assets.xcassets */; };
 		D169E7BC2E7A890F0035BF2D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = D169E7BB2E7A890F0035BF2D /* Base */; };
+		D169E7C42E7A915C0035BF2D /* .gitignore.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D169E7C32E7A915C0035BF2D /* .gitignore.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D169E7B82E7A890F0035BF2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D169E7BB2E7A890F0035BF2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D169E7BD2E7A890F0035BF2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D169E7C32E7A915C0035BF2D /* .gitignore.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = .gitignore.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D169E7AF2E7A890E0035BF2D /* AppDelegate.swift */,
 				D169E7B12E7A890E0035BF2D /* SceneDelegate.swift */,
 				D169E7B32E7A890E0035BF2D /* ViewController.swift */,
+				D169E7C32E7A915C0035BF2D /* .gitignore.rtf */,
 				D169E7B52E7A890E0035BF2D /* Main.storyboard */,
 				D169E7B82E7A890F0035BF2D /* Assets.xcassets */,
 				D169E7BA2E7A890F0035BF2D /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				D169E7B92E7A890F0035BF2D /* Assets.xcassets in Resources */,
 				D169E7BC2E7A890F0035BF2D /* Base in Resources */,
+				D169E7C42E7A915C0035BF2D /* .gitignore.rtf in Resources */,
 				D169E7B72E7A890E0035BF2D /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
